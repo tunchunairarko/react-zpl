@@ -1,0 +1,23 @@
+{
+  "name": "react-zpl",
+  "version": "1.0.0",
+  "description": "This is a client-side ReactJS library to print barcodes using Zebra label printers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunchunairarko/react-zpl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunchunairarko/react-zpl/issues"
+  },
+  "homepage": "https://github.com/tunchunairarko/react-zpl#readme",
+  "dependencies": {
+    "qz-tray": "^2.1.2"
+  }
+}
